@@ -50,9 +50,16 @@ Dataset provided by BoomBikes is a historical data of Bike rental for the year 2
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+* Python - version 2.13.7
+* Numpy - version 2.3.2
+* Matplotlib - version 3.10.6
+* Pandas - version 2.3.2
+* Seaborn - version 0.13.2
+
+
+
+
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
