@@ -57,13 +57,3 @@ Dataset provided by BoomBikes is a historical data of Bike rental for the year 2
 * Seaborn - version 0.13.2
 * Scikit-learn - version 1.7.2
 * Statsmodels - version 0.14.5
-
-## Contact
-Created by [YourUsername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
