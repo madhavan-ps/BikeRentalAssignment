@@ -11,11 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
   Project is about building a multiple linear regression model to predict the demand for shared bikes. Using historical bike-rental data collected by BoomBikes, the goal is to identify the key factors that influence bike demand and create a model that can forecast usage levels accurately. 
-- What is the background of your project?
+### What is the background of your project?
  A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
-- What is the business probem that your project is trying to solve?
+### What is the business probem that your project is trying to solve?
   BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
 Thee company wants to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market
 - What is the dataset that is being used?
