@@ -59,7 +59,7 @@ Dataset provided by BoomBikes is a historical data of Bike rental for the year 2
 * Statsmodels - version 0.14.5
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [YourUsername] - feel free to contact me!
 
 
 <!-- Optional -->
