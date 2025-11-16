@@ -41,12 +41,12 @@ Dataset provided by BoomBikes is a historical data of Bike rental for the year 2
 	* cnt: count of total rental bikes including both casual and registered
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+* Season Impact: Spring shows the lowest demand (-0.258 Coeff), while Summer and Winter have negligible or mild negative effects.
+* Weather Impact: Rainy conditions Significantly impacts Bikes Rental/sharing (-0.302 Coeff).
+* Month Impact: show seasonality. Months such as January and September have mild effects on bike demand .
+* Year (yr) : showing major growth from 2018 to 2019.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Technologies Used
